@@ -1,2 +1,3 @@
 # landing-page
-Landing page practice
+Landing page practice 
+Photo by Egor Kamelev from Pexels
